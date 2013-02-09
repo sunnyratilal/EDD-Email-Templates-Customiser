@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/658869/edd-email-templates-customiser/trunk/languages
+END
+strings.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/658869/edd-email-templates-customiser/trunk/languages/strings.php
+END
+edd_etc-fr_FR.po
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/624702/edd-email-templates-customiser/trunk/languages/edd_etc-fr_FR.po
+END
+edd_etc.pot
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/624702/edd-email-templates-customiser/trunk/languages/edd_etc.pot
+END
+edd_etc-fr_FR.mo
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/624702/edd-email-templates-customiser/trunk/languages/edd_etc-fr_FR.mo
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/658869/edd-email-templates-customiser/trunk/languages/index.php
+END
